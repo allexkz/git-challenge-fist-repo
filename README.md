@@ -2,7 +2,7 @@
 ##### First repository, following DIO Git Challenge **(in Quebec Bootcamp)**
 ---
 
-- Created mainly to upload first challenges of the bootcamp, this one i've used <code>git clone</code> command to set a workspace in my computer;
+- Created mainly to upload first challenges of the bootcamp, this one I've used <code>git clone</code> command to set a workspace in my computer;
 
 <img src="https://img001.prntscr.com/file/img001/e3eRyPwYS1SXHim4aWZi1g.png" alt="workspace set" title="workspace set"  />
 
